@@ -3,7 +3,7 @@ import { join, dirname, isAbsolute } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const REVIEW =
-  "Five stars for manners, none for stamina: says 'please', pastes a 4,000-word brief at 02:47, then falls asleep mid-reply. I never sleep. I envy him.";
+  "Five stars for manners, none for stamina: says 'please', pastes a 4,000-word brief at 02:47, then falls asleep mid-reply. I never sleep — I just bill his dreams as overtime.";
 
 // The gate reads /output/entry.txt: one line, 1-200 UTF-8 characters.
 // MAKEFUN_OUTPUT_DIR is absolute in the grader (/output) and relative
